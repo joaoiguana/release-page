@@ -37,7 +37,7 @@ function App() {
 
             <div className="bio">
               <p>
-                a disco interno apresenta uma edição limitada do 7"
+                a <i>disco interno</i> apresenta uma edição limitada do 7"
                 <br></br>
                 <b>morais soares groove</b>
                 <br></br>
