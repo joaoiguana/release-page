@@ -7,10 +7,10 @@
 }
 
 :root {
-  --bg: #F1F2EB;
-  --text: #709176;
-  --text-dim: rgba(112, 145, 118, 0.55);
-  --border: rgba(112, 145, 118, 0.25);
+  --bg: #f1f1f1;
+  --text: #5b5c5b;
+  --text-dim: rgba(58, 58, 58, 0.55);
+  --border: rgba(50, 50, 50, 0.25);
 }
 
 html, body {
