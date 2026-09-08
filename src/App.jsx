@@ -31,7 +31,7 @@ function App() {
             </div>
 
             <div className="cta-group">
-              <a href="https://distrokid.com/hyperfollow/iguanagarcia/morais-soares-groove" className="btn btn-primary" target="_blank" rel="noopener noreferrer">Pre-Save</a>
+              <a href="https://distrokid.com/hyperfollow/iguanagarcia/morais-soares-groove" className="btn btn-primary" target="_blank" rel="noopener noreferrer">Ouve Aqui</a>
               <a href="https://www.swisstransfer.com/dl/01a07b31-b27d-719f-8420-44434de503ee" className="btn btn-secondary" target="_blank" rel="noopener noreferrer">Download</a>
             </div>
 
